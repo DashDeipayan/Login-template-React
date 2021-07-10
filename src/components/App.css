@@ -1,0 +1,16 @@
+.App{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.App-content-email,.App-content-password,.App-content-conf-password {
+    margin-bottom: 20px;
+}
+.App-content-button{
+    vertical-align: right;
+}
